@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define Count 10e10
+#define Count 10e7
 #define M 1
 #define R 0.5
 
